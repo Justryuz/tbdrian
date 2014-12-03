@@ -31,13 +31,13 @@ define("LOGIN_WELCOME","Selamat Datang di ".SERVER_NAME." versi Beta.");
 define("LOGIN_NO_JAVASCRIPT","anda telah mematikan JavaScript di pelayar anda. Untuk dapat bermain, anda perlu mengaktifkan JavaScript dalam pelayar anda semula.");
 define("LOGIN_USERNAME","Nama Samaran");
 define("LOGIN_PASSWORD","Kata Laluan");
-define("LOGIN_LOWRES_OPTION","Editing for players");
+define("LOGIN_LOWRES_OPTION","Sunting untuk permain");
 define("LOGIN_LOWRES_DESC","With less bandwidth (speed less)");
 define("LOGIN_LOWRES_NOTICE","(Note: All options may not edit map)");
 define("LOGIN_PW_FORGOTTEN","Lupa kata laluan?");
 define("LOGIN_PW_EMAIL","Email:");
 define("LOGIN_PW_BTN","Kata laluan");
-define("LOGIN_PW_REQUEST","We will send you a new password. Once you receive a confirmation code will be active.");
+define("LOGIN_PW_REQUEST","Kami menghantar kata laluan yang baru untuk anda. Once you receive a confirmation code will be active.");
 define("LOGIN_PW_SENT","Satu e-mel yang mengandungi kata laluan baru dihantar ke email anda");
 define("LOGIN_SERVER_START","The game has not started yet. You are able to play in");
 define("LOGIN_SERVER_START2","Menjadi.");
@@ -51,8 +51,8 @@ define("COOKIES","To enter, you must enable cookies. If your computer is shared 
 //LOGOUT.php
 define("LOGOUT_TITLE","Anda telah berjaya keluar");
 define("LOGOUT_H4","Terima kasih untuk lawatan anda.");
-define("LOGOUT_DESC","Jika orang lain juga menggunakan komputer ini, anda perlu memadam cookies anda untuk memperoleh keselamatan:");
-define("LOGOUT_LINK","Cookies anda dipadam");
+define("LOGOUT_DESC","Jika orang lain juga menggunakan komputer ini, anda perlu memadam kuki anda untuk memperoleh keselamatan:");
+define("LOGOUT_LINK","kuki anda dipadam");
 
 
 //REGISTER
@@ -77,10 +77,10 @@ define("REGISTER_STARTER","Jika anda pemain baru di TBDrian sila baca terlebih d
 define("CONTACT_DESC","Anda boleh menggunakan borang di bawah untuk menghantar permintaan anda untuk menyokong. Sila jawab soalan-soalan pada borang tersebut dan masukkan butiran sebaik sahaja kami dapat membantu anda.");
 define("CONTACT_CATEGORY","kategori");
 define("CONTACT_SELECT_SUBJECT","Sila pilih");
-define("CONTACT_SUBJECT1","soalan umum");
+define("CONTACT_SUBJECT1","Soalan umum");
 define("CONTACT_SUBJECT2","Saya tidak boleh masuk ke akaun saya.");
 define("CONTACT_SUBJECT3","Saya tidak dapat mendaftar");
-define("CONTACT_SUPPORT","sokongan pelayan");
+define("CONTACT_SUPPORT","Sokongan pelayan");
 define("CONTACT_USERNAME","Nama Pengguna");
 define("CONTACT_USER_NOT_EXIST","Nama pengguna ini tidak berdaftar.");
 define("CONTACT_EMAIL","E-mel");
